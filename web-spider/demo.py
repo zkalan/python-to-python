@@ -1,7 +1,7 @@
 import urllib2
 import urllib
 
-value = {"username":"2206813598@qq.com","password":"chenjin125"}
+value = {"username":"zkalan@qq.com","password":"xxxxx"}
 
 data = urllib.urlencode(value)
 
